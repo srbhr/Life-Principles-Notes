@@ -8,7 +8,6 @@ This contains the summary and important points from principles/chapters one to f
 
 <h2 align="center"> Index </h2>
 
----
 
 ### [Chapter 1. Embrace Reality and Deal with it](chapter_1.md)
 
