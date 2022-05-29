@@ -1,4 +1,4 @@
-# Principle 5. Learn How to Make Decisions Effectively
+<h1 align="center"> Principle 5. Learn How to Make Decisions Effectively </h1>
 
 </br>
 
