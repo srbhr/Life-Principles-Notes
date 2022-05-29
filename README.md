@@ -1,10 +1,13 @@
-# Principles Summary
+<h1 align="center"> Principles Summary </h1>
 
 Summary of the book "Life and Work Principles by Ray Dalio" focusing on Life Principle Section.
 
 This contains the summary and important points from principles/chapters one to five from Life Principles. 
 
-## Index
+<br>
+
+<h2 align="center"> Index </h2>
+
 ---
 
 ### [Chapter 1. Embrace Reality and Deal with it](chapter_1.md)
