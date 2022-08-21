@@ -97,7 +97,7 @@ Everyone has at least one big problem that stands in the way of their success; f
 
 1. Pushing yourself to results.
 2. Focus on **key** result areas.
-3. Understand that things (actions, plans, roadmaps, etc.) and their results of these actions take time. And you can only get there by deliberate practice.
+3. Understand that things (actions, plans, road-maps, etc.) and their results of these actions take time. And you can only get there by deliberate practice.
 
 Therefore, **consistency is key**.
 
