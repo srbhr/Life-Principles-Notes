@@ -267,7 +267,7 @@ Nature filters out on the first/second order consequences of things. Giving tota
 
 ## Internal Locus of Control
 
-> "While we are free to chose our actions, we are not free to choose the consequences of our actions." ~ Stephen Covey, 7 Habits of Highly Effective People.
+While we are free to chose our actions, we are not free to choose the consequences of our actions. ~ Stephen Covey, 7 Habits of Highly Effective People.
 
 Whatever circumstances life brings you. You will be more likely to succeed and find happiness if you take responsibility for making your decisions well, instead of complaining about things beyond your control.
 
